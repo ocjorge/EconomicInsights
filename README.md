@@ -47,9 +47,3 @@ Donde:
 ---
 
 **Desarrollado con fines de análisis económico y científico.**
-
-
-
-ustaría que añadiera alguna sección específica sobre cómo interpretar el **P-value** del test de Hausman o prefieres que le demos un toque más visual al reporte?
-
-```
