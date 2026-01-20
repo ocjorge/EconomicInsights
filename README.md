@@ -7,7 +7,7 @@
 
 Este programa realiza un análisis avanzado de **Datos de Panel** utilizando la API del Banco Mundial para explorar la relación causal entre el gasto en Investigación y Desarrollo (I+D) y el crecimiento del PIB per cápita en América Latina (2000-2022).
 
-## 🚀 Características del Script
+## Características del Script
 * **Data Ingestion:** Conexión directa vía API (`wbopendata`).
 * **Econometría:** Implementación de modelos de **Efectos Fijos (FE)** y **Efectos Aleatorios (RE)**.
 * **Validación:** Ejecución del **Test de Hausman** para selección de modelo óptimo.
